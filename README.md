@@ -1,2 +1,0 @@
-# vuelearn
-Created with CodeSandbox
